@@ -10,6 +10,7 @@ interface custNode extends INode{
 }
 @Component({
   selector: 'app-root',
+  standalone: false,  // Add this line
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss']
 })

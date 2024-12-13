@@ -2,11 +2,11 @@
   "name": "ngx-hierarchy",
   "version": "0.0.4",
   "peerDependencies": {
-    "@angular/common": "^12.1.0",
-    "@angular/core": "^12.1.0"
+    "@angular/common": "^19.0.0",
+    "@angular/core": "^19.0.0"
   },
   "dependencies": {
-    "tslib": "^2.2.0"
+    "tslib": "^2.5.0"
   },
   "author": "Rushik",
   "license": "MIT",

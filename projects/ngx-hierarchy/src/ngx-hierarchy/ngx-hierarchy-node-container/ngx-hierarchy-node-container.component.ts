@@ -5,7 +5,8 @@ import { INode } from "../INode";
 @Component({
   selector: 'ngx-hierarchy-node-container',
   templateUrl: './ngx-hierarchy-node-container.component.html',
-  styleUrls: ['./ngx-hierarchy-node-container.component.scss']
+  styleUrls: ['./ngx-hierarchy-node-container.component.scss'],
+  standalone:false
 })
 export class NgxHierarchyNodeContainerComponent implements OnInit {
 
