@@ -159,3 +159,6 @@ export class AppComponent {
   </ng-template>
 </ngx-hierarchy>
 ```
+
+## Checkout hierarchy view in React also.
+[Click Here](https://www.npmjs.com/package/react-hierarchy-chart)
